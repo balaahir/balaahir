@@ -9,7 +9,7 @@
 
 # Hi, I'm Balaji M 👋
 
-**Full Stack Developer | Data Scientist | Backend Engineering Intern**
+**Full Stack Developer**
 
 📍 Tamil Nadu, India | 📧 balaahir0071@gmail.com | 📱 +91-8778542177
 
