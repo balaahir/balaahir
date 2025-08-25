@@ -44,12 +44,16 @@
 </div>
 
 <br>
+## 🚀 About Me
+Aspiring Full-Stack Developer with hands-on experience in building scalable web applications and data-driven solutions. Currently working as a **Backend Developer Intern at CollegePur**, where I develop RESTful APIs and implement secure authentication systems. Passionate about solving real-world problems through clean architecture and user-friendly interfaces.
+
+<br>
 
 ---
 
 <br>
 
-## 💼 Current Experience
+## 💼 Experience
 - **🔧 Backend Developer Intern** at CollegePur (Aug 2025 - Present)
   - Developing RESTful APIs with Node.js and Express.js
   - Implementing secure JWT authentication and authorization
@@ -63,10 +67,7 @@
 
 <br>
 
-## 🚀 About Me
-Aspiring Full-Stack Developer with hands-on experience in building scalable web applications and data-driven solutions. Currently working as a **Backend Developer Intern at CollegePur**, where I develop RESTful APIs and implement secure authentication systems. Passionate about solving real-world problems through clean architecture and user-friendly interfaces.
 
-<br>
 
 ## 🏆 Featured Projects
 
