@@ -44,7 +44,7 @@
 </div>
 
 <br>
-## 🚀 About Me
+🚀 About Me
 Aspiring Full-Stack Developer with hands-on experience in building scalable web applications and data-driven solutions. Currently working as a **Backend Developer Intern at CollegePur**, where I develop RESTful APIs and implement secure authentication systems. Passionate about solving real-world problems through clean architecture and user-friendly interfaces.
 
 <br>
