@@ -57,7 +57,7 @@
 </div><div style="display: flex; align-items: flex-start; gap: 30px;">
 
 <div style="flex: 0 0 200px;">
-  <img src="https://github.com/M-Balaji2606/M-Balaji2606/blob/main/profile-photo.jpg" alt="Balaji M" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://github.com/balaahir/balaahir/blob/main/photo.png" alt="Balaji M" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
 <div style="flex: 1; padding-left: 20px;">
