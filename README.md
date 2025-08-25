@@ -21,7 +21,6 @@
 
 <br>
 
-**🛠️ Tech Stack:**
 
 <div align="center" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; max-width: 400px;">
 
@@ -102,19 +101,6 @@ Aspiring Full-Stack Developer with hands-on experience in building scalable web 
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Balaji2606&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Balaji2606&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Balaji2606&theme=radical)
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate!
 
